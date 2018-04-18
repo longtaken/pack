@@ -6,7 +6,6 @@ const CleanWebpackPlugin = require('clean-webpack-plugin');
 
 
 module.exports = {
-    //context: path.resolve(__dirname, 'src'),
     entry: {
         vendor: [
           'react',
